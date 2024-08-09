@@ -1,0 +1,7 @@
+Team Details:
+
+Name : JANAPATI VARSHITA DEVI
+Roll No : CS21B036
+
+Name : MUTHAVARAPU HARSHITHA
+Roll No : CS21B056
